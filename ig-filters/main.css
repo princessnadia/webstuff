@@ -1,0 +1,54 @@
+img.f-normal {
+  -webkit-filter: none;
+  filter: none;
+}
+
+img.f-clarendon {
+  -webkit-filter: brightness(105%) hue-rotate(15deg);
+  filter: brightness(105%) hue-rotate(15deg);
+}
+
+img.f-gingham {
+  -webkit-filter: sepia(60%) grayscale(10%) contrast(90%) brightness(105%);
+  filter: sepia(60%) grayscale(10%) contrast(90%);
+}
+
+img.f-moon {
+  -webkit-filter: grayscale(100%) contrast(60%) brightness(130%);
+  filter: grayscale(100%) contrast(60%) brightness(130%);
+}
+
+img.f-lark {
+  -webkit-filter: brightness(120%);
+  filter: brightness(120%);
+}
+
+img.f-reyes {
+  -webkit-filter: sepia(70%) contrast(60%) brightness(130%);
+  filter: none;
+}
+
+img.f-juno {
+  -webkit-filter: contrast(70%) sepia(10%) hue-rotate(-20deg) brightness(130%);
+  filter: contrast(70%) sepia(10%) hue-rotate(-20deg) brightness(130%);
+}
+
+img.f-slumber {
+  -webkit-filter: sepia(50%);
+  filter: sepia(50%);
+}
+
+img.f-crema {
+  -webkit-filter: sepia(70%) contrast(70%) brightness(130%);
+  filter: sepia(70%) contrast(70%) brightness(130%);
+}
+
+img.f-ludwig {
+  -webkit-filter: contrast(70%) sepia(30%) hue-rotate(-15deg) brightness(130%);
+  filter: contrast(70%) sepia(30%) hue-rotate(-15deg) brightness(130%);
+}
+
+img.f-aden {
+  -webkit-filter: sepia(50%) hue-rotate(-15deg);
+  filter: sepia(50%) hue-rotate(-15deg);
+}
