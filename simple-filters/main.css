@@ -1,0 +1,14 @@
+img.f-normal {
+  -webkit-filter: none;
+  filter: none;
+}
+
+img.f-bw {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+
+img.f-backblur {
+  -webkit-filter: blur(5px);
+  filter: blur(5px);
+}
